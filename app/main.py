@@ -27,7 +27,7 @@ app.include_router(vote.router)
 
 @ app.get("/")
 def root():
-    return {"message": "Welcome to my api!!!!"}
+    return {"message": "Welcome to my api!"}
 
 # Functions used before we used a Sql database
 # my_posts = [{"title": "title of post 1",
