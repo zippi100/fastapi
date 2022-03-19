@@ -1,4 +1,4 @@
 app/__pycache__
 venv/
 .env
-docker-compose.yml
+docker-compose
